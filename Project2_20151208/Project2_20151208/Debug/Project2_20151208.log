@@ -1,0 +1,7 @@
+﻿  eep_project2_20151208.cpp
+C:\Users\SeungIn\source\repos\Project2_20151208\Project2_20151208\eep_project2_20151208.cpp(126,15): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\SeungIn\source\repos\Project2_20151208\Project2_20151208\eep_project2_20151208.cpp(162,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\SeungIn\source\repos\Project2_20151208\Project2_20151208\eep_project2_20151208.cpp(223,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\SeungIn\source\repos\Project2_20151208\Project2_20151208\eep_project2_20151208.cpp(254,31): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\SeungIn\source\repos\Project2_20151208\Project2_20151208\eep_project2_20151208.cpp(179,10): warning C4101: 'ch' :참조되지 않은 지역 변수입니다.
+  Project2_20151208.vcxproj -> C:\Users\SeungIn\source\repos\Project2_20151208\Debug\Project2_20151208.exe

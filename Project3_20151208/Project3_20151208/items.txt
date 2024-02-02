@@ -1,0 +1,6 @@
+ITEM AMOUNT PRICE
+pencil 30 500 
+eraser 25 450 
+book 40 2000 
+usb 10 15000 
+glue 15 700 
